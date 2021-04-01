@@ -242,3 +242,10 @@ function dateToNatural(date){ // input: Date Obj   output: April 4
     ];
     return monthNames[date.getMonth()] + ' ' + date.getDate();
 }
+
+
+
+
+
+
+
